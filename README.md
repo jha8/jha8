@@ -1,7 +1,7 @@
 ### Hello World! 👋 🌎
 
-- 🎓 I’m currently in my final year of Computing Science at University of Alberta.
+- 🎓 I’m currently in my fourth year of Computing Science at University of Alberta.
 - 💻 Working on ReactJS, Redux and Django.
-- 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/joe-ha-246a2b171/).
+- 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/joe-ha/).
 - ⚡ Send me your favourite series and movies 📺.
 
