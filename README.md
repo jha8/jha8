@@ -5,3 +5,4 @@
 - 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/joe-ha/).
 - ⚡ Send me your favourite series and movies 📺.
 
+![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jha8&show_icons=true&theme=radical)
